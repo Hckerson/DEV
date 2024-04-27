@@ -1,0 +1,52 @@
+Sure, here are 50 HTML tags along with their uses:
+
+1. `<html>` - Defines the root of an HTML document.
+2. `<head>` - Contains metadata about the HTML document.
+3. `<title>` - Defines the title of the document, shown in the browser's title bar.
+4. `<meta>` - Provides metadata about the HTML document.
+5. `<link>` - Defines the relationship between the current document and an external resource.
+6. `<style>` - Contains CSS for styling the HTML document.
+7. `<script>` - Defines client-side JavaScript within the HTML document.
+8. `<body>` - Contains the content of the HTML document visible to users.
+9. `<h1>` to `<h6>` - Defines headings of varying levels.
+10. `<p>` - Defines a paragraph.
+11. `<a>` - Defines a hyperlink.
+12. `<img>` - Embeds an image into the HTML document.
+13. `<div>` - Defines a division or section in an HTML document.
+14. `<span>` - Defines a section in an HTML document for styling with CSS.
+15. `<ul>` - Defines an unordered list.
+16. `<ol>` - Defines an ordered list.
+17. `<li>` - Defines a list item within `<ul>` or `<ol>`.
+18. `<table>` - Defines a table.
+19. `<tr>` - Defines a row within a table.
+20. `<th>` - Defines a header cell within a table.
+21. `<td>` - Defines a data cell within a table.
+22. `<caption>` - Defines a caption for a table.
+23. `<form>` - Defines an HTML form for user input.
+24. `<input>` - Defines an input control.
+25. `<textarea>` - Defines a multiline input control.
+26. `<button>` - Defines a clickable button.
+27. `<select>` - Defines a dropdown list.
+28. `<option>` - Defines an option in a `<select>` dropdown.
+29. `<label>` - Defines a label for an `<input>` element.
+30. `<fieldset>` - Groups related elements in a form.
+31. `<legend>` - Defines a caption for a `<fieldset>`.
+32. `<iframe>` - Embeds a nested browsing context into the current document.
+33. `<audio>` - Embeds sound content into the document.
+34. `<video>` - Embeds video content into the document.
+35. `<canvas>` - Defines a region in which graphics can be drawn with JavaScript.
+36. `<svg>` - Defines an SVG graphic.
+37. `<article>` - Defines an independent piece of content.
+38. `<aside>` - Defines content aside from the content it is placed in.
+39. `<footer>` - Defines a footer for a document or section.
+40. `<header>` - Defines a header for a document or section.
+41. `<nav>` - Defines navigation links.
+42. `<section>` - Defines a section in a document.
+43. `<blockquote>` - Defines a block quotation.
+44. `<cite>` - Defines the title of a work cited.
+45. `<code>` - Defines a piece of computer code.
+46. `<pre>` - Defines preformatted text.
+47. `<abbr>` - Defines an abbreviation or acronym.
+48. `<br>` - Inserts a single line break.
+49. `<hr>` - Defines a thematic break between paragraph-level elements.
+50. `<ruby>` - Defines a ruby annotation for pronunciation.
